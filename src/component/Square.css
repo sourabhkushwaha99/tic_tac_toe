@@ -1,0 +1,15 @@
+
+
+.custom{
+    /* background-color: white; */
+    border-radius: 0;
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    border: 3px solid black;
+    margin: .5px;
+}
+.custom:hover{
+    /* background-color: white ; */
+    border: 3px solid black;
+}
